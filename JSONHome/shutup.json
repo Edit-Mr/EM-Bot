@@ -1,0 +1,14 @@
+{
+	"Group": [{
+		"type": "1",
+		"GroupID": "",
+		"GroupName": "",
+		"Power": ""
+	}],
+	"Chennel": [{
+		"type": "1",
+		"ChannelID": "",
+		"ChannelName": "",
+		"Power": ""
+	}]
+}
